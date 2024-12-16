@@ -23,10 +23,10 @@
 
 Ensure you have the following tools ready:
 
-- **Bash**: Default on most Linux distributions and macOS.
+- **Bash**: Default on most Linux distributions.
 - **curl**: Required to download Ollama if it's not already installed.
 
-> **Note**: This script is designed for Linux-based systems and macOS.
+> **Note**: This script is designed for Linux-based systems.
 
 
 ## Installation 🛠️
